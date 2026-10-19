@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Mahia%20Rahman&fontSize=40&fontAlignY=38" alt="Mahia Rahman banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:3FB6A8&height=140&section=header&text=Mahia%20Rahman&fontSize=40&fontAlignY=38" alt="Mahia Rahman banner" />
 </p>
 
 <p align="center">
@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://mahia-rahman-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  
 </p>
 
 ---
@@ -55,7 +56,6 @@ I love building for the web, from clean, responsive interfaces to the logic that
 </p>
 
 
-
 ---
 
 <p align="center">
@@ -63,5 +63,5 @@ I love building for the web, from clean, responsive interfaces to the logic that
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB6A8,100:2F81F7&height=80&section=footer" alt="footer" />
 </p>
