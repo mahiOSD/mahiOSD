@@ -54,9 +54,7 @@ I love building for the web, from clean, responsive interfaces to the logic that
   <img src="https://streak-stats.demolab.com?user=mahiOSD&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/2F81F7/mahiOSD" alt="Contribution calendar" width="95%" />
-</p>
+
 
 ---
 
